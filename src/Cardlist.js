@@ -14,7 +14,7 @@ const Cardlist = ({robots})=>{
     )
 });
 return (
-  <div>
+  <div className='flex flex-wrap justify-center'>
     {roboComp}
   </div>
 );
