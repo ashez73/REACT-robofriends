@@ -1,7 +1,6 @@
 import React from 'react';
 import Card from './Card'
 
-
 const Cardlist = ({robots})=>{
   const roboComp = robots.map((user,i) =>{
     return (

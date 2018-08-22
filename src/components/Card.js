@@ -11,4 +11,3 @@ const Card = ({id, username, email}) => {
   );
 }
 export default Card;
-// <div className ='mw-20 tc bg-light-green dib br3 pa3 ma2 grow bw2 shadow-5'>
